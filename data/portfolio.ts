@@ -4,7 +4,7 @@ export const site = {
   email: "sudhirtiwari2026@gmail.com",
   github: "https://github.com/Sudhir86046",
   linkedin: "www.linkedin.com/in/sudhir-kumar-tiwari-902453257",
-  resume: "/resume.pdf",
+  resume: "/SUDHIR KUMAR TIWARI06.pdf",
 };
 
 export const projects = [
